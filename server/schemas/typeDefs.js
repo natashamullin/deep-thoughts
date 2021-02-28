@@ -45,7 +45,7 @@ type Query {
 
     type Auth {
         token: ID!
-        user: USER
+        user: User
     }
 `;
 
